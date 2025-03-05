@@ -13,16 +13,6 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
 
 ## 🚀 Featured Projects
 
-🔹 **[Rossmann Store Sales Prediction](https://github.com/manoelmendonca/rossmann_project)** – Predictive model for sales forecasting in a retail chain using Machine Learning.
-🔹 **[Hackday 6 - DS Community](https://github.com/manoelmendonca/hackday_6_cds_2023)** – Price prediction model, winner of the competition.
-🔹 **[Customer Clustering](https://github.com/manoelmendonca/customers_clustering)** – Customer segmentation using K-Means and Random Forest.
-🔹 **[Health Insurance Cross-sell](https://github.com/manoelmendonca/health_insurance)** – Customer classification model for health insurance cross-selling.
-🔹 **[Machine Learning Essay](https://github.com/manoelmendonca/Ensaio-de-Machine-Learning)** – Experiments with different machine learning algorithms.
-🔹 **[Cia Fome Zero Project](https://github.com/manoelmendonca/Projeto-Cia-Fome-Zero)** – Data analysis for a social initiative.
-
-
-## 🚀 Featured Projects
-
 <table align="center">
     <tr>
       <th align="center">Project</th>
@@ -55,7 +45,6 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
 </table>
 
 
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoelmendonca&show_icons=true&theme=dark)
@@ -70,7 +59,7 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 📫 Portfolio
+## 📫 Portfolio Page
 
 🌎 [Portfolio](http://menezes.mendonca.nom.br)
 
