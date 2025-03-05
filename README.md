@@ -20,6 +20,42 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
 🔹 **[Machine Learning Essay](https://github.com/manoelmendonca/Ensaio-de-Machine-Learning)** – Experiments with different machine learning algorithms.
 🔹 **[Cia Fome Zero Project](https://github.com/manoelmendonca/Projeto-Cia-Fome-Zero)** – Data analysis for a social initiative.
 
+
+## 🚀 Featured Projects
+
+<table align="center">
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/rossmann_project">Rossmann Store Sales Prediction</a></td>
+      <td align="left">Predictive model for sales forecasting in a retail chain using Machine Learning.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/hackday_6_cds_2023">Hackday 6 - DS Community</a></td>
+      <td align="left">Price prediction model, winner of the competition.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/customers_clustering">Customer Clustering</a></td>
+      <td align="left">Customer segmentation using K-Means and Random Forest.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/health_insurance">Health Insurance Cross-sell</a></td>
+      <td align="left">Customer classification model for health insurance cross-selling.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/Ensaio-de-Machine-Learning">Machine Learning Essay</a></td>
+      <td align="left">Experiments with different machine learning algorithms.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/manoelmendonca/Projeto-Cia-Fome-Zero">Cia Fome Zero Project</a></td>
+      <td align="left">Data analysis for a social initiative.</td>
+    </tr>
+</table>
+
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoelmendonca&show_icons=true&theme=dark)
