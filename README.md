@@ -19,19 +19,19 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
       <th align="center">Description</th>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/manoelmendonca/rossmann_project">Rossmann Store Sales Prediction</a></td>
+      <td align="center"><a href="https://github.com/manoelmendonca/rossmann_project/blob/main/README-EN.md">Rossmann Store Sales Prediction</a></td>
       <td align="left">Predictive model for sales forecasting in a retail chain using Machine Learning.</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/manoelmendonca/hackday_6_cds_2023">Hackday 6 - DS Community</a></td>
+      <td align="center"><a href="https://github.com/manoelmendonca/hackday_6_cds_2023/blob/main/README-EN.md">Hackday 6 - DS Community</a></td>
       <td align="left">Price prediction model, winner of the competition.</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/manoelmendonca/customers_clustering">Customer Clustering</a></td>
+      <td align="center"><a href="https://github.com/manoelmendonca/customers_clustering/blob/main/README-en.md">Customer Clustering</a></td>
       <td align="left">Customer segmentation using K-Means and Random Forest.</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/manoelmendonca/health_insurance">Health Insurance Cross-sell</a></td>
+      <td align="center"><a href="https://github.com/manoelmendonca/health_insurance/blob/main/README-en.md">Health Insurance Cross-sell</a></td>
       <td align="left">Customer classification model for health insurance cross-selling.</td>
     </tr>
     <tr>
