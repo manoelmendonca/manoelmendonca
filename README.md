@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Manoel Mendonça!
 
-Welcome to my GitHub profile! 🚀 Here, you'll find projects, studies, and contributions related to technology and software development.
+Welcome to my GitHub profile! 🚀 Here, you can straight to my projects related to Data Science.
 
 ## 🔥 About Me
 
@@ -9,7 +9,7 @@ I am a **Data Scientist** with a background in Electronic Engineering and a Mast
 
 Among my achievements, I was awarded **1st place at the DS Community Hackday**, where I developed a pricing prediction system using Machine Learning. I have experience in **sales forecasting, customer segmentation, and interactive dashboard development** using **Streamlit**.
 
-📌 My academic publications include studies on **dynamic models for forecasting interest rates, judiciary budget analysis, and the impact of taxation on the digital economy**.
+📌 My academic publications include studies on <a href="https://menezes.mendonca.nom.br/financas/ucd%202010%20finaldissertation%20m.mendonca.pdf">dynamic models for forecasting interest rates</a> and <a href="https://menezes.mendonca.nom.br/direito/uff%202022%20tcc%20-%20m.mendonca.pdf">judiciary budget analysis, and the impact of taxation on the digital economy</a>.
 
 ## 🚀 Featured Projects
 
