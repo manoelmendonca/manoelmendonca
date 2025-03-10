@@ -28,7 +28,7 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/manoelmendonca/customers_clustering/blob/main/README-en.md">Customer Clustering</a></td>
-      <td align="left">Customer Unsupervised Clustering using GMM and Tree-based embedding with Random Forest and UMAP.</td>
+      <td align="left">Unsupervised Clustering using GMM and Tree-based embedding with Random Forest and UMAP.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/manoelmendonca/health_insurance/blob/main/README-en.md">Health Insurance Cross-sell</a></td>
