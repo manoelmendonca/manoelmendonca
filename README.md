@@ -24,7 +24,7 @@ Among my achievements, I was awarded **1st place at the DS Community Hackday**, 
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/manoelmendonca/hackday_6_cds_2023/blob/main/README-EN.md">Hackday 6 - DS Community</a></td>
-      <td align="left">Pricing model using Supervised Machine Learning Regression Algorithm<br>➡️ competition winner 😀.</td>
+      <td align="left">Pricing model using Supervised Machine Learning Regression Algorithm.<br>➡️ competition winner 😀</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/manoelmendonca/customers_clustering/blob/main/README-en.md">Customer Clustering</a></td>
