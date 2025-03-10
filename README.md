@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Manoel Mendonça!
 
-Welcome to my GitHub profile! 🚀 Here, you can straight to my projects related to Data Science.
+Welcome to my GitHub profile! 🚀 Here, you can go straight to my projects related to Data Science.
 
 ## 🔥 About Me
 
